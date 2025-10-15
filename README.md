@@ -1,4 +1,4 @@
-# MT4R
+# Math Toolbox for Robotics (MT4R)
 
 MT4R is a robotics reference book I authored with the goal of making mathematical derivations in various foundational areas of robotics more accessible. 
 
